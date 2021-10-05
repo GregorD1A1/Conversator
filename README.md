@@ -1,4 +1,4 @@
-Aplikacja, umawiająca dziewczyny z tindera.
+Aplikacja, lajkująca, pisząca z, i umawiająca dziewczyny z tindera.
 
 Działanie: 
 1. Raz dziennie klika określoną ilość dziwczyn według ustalonych kryteriów. (klika od 2 do 6 dziewczyn, kryteria wyboru to posiadanie min 3 zdjęć i wiek min 20 lat)
