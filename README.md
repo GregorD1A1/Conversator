@@ -1,8 +1,10 @@
-Aplikacja, która lajkuje profil, pisze do dziewczyn z tindera i umawia się z nimi. 
+An app that likes a profile, texts girls from tinder and dates them. 
 
-Działanie: 
-1. Raz dziennie klika określoną ilość dziwczyn według ustalonych kryteriów. (klika od 2 do 6 dziewczyn, kryteria wyboru to posiadanie min 3 zdjęć i wiek min 20 lat)
-2. Raz dziennie do określonej liczby dziewczyn wysyła wiadomość z pytaniem o zainteresowania (etap 1), z imienną personalizacją. (wysyła od 2 do 4 dziewczyn)
-3. 2 razy dziennie odpisuje do dzieczyn. Na etapie 2 analizuje jej zainteresowania i dobiera odpowiedni tekst pod nie, taże analizuje czy nie spytała o moje zainteresowania; na etapie 3 ciągnie dalej temat jednego z zainteresowań, i rozwija o moich zainteresowaniach jeśli dopytała; na etapie 4 proponuje spotkanie; później, jeśli dostanie odpowiedź, wysyła maila i powiadomienie na telefon.
+Operation: 
+1. Once a day clicks (likes or dislikes) a certain number of girls according to set criteria. (clicks from 2 to 6 girls, the criteria for selection are having min 3 photos and age min 20 years)
+2. Once a day to a certain number of girls sends a message asking about interests (stage 1), with name personalization. (sends from 2 to 4 girls)
+3. 2 times a day writes back to the girls. At stage 2, she analyzes her interests and selects the appropriate text based on them, also analyzes whether she has asked about my interests; at stage 3, she continues the topic of one of her interests, and elaborates on my interests if she has asked; at stage 4, she proposes a meeting; later, if she gets a response, she sends an email and a notification to her phone.
 
-Zważając na współpracę z aplikacją zewnętrzną (tinderem), nie przeznaczoną do integracji z botem,  aplikacja posiada mechanizm samowyłapywania błędów i powiadomiania przez telefon w przypadku ich wystąpienia. Z uwagi na rozbudowane mehanizmy antybotowe tindera, aplikacja zbudowana w taki sposób, by w działaniu udawać człowieka. Aplikacja docelowo uruchamiana na mikrokomputerze Raspberry Pi, by zapewnić całodobowe działanie. 
+Given the cooperation with a third-party application (tinder), not designed to integrate with the bot, this application has a mechanism for self-catching errors and notifying by phone when they occur. Due to tinder's extensive anti-bot mehanisms, the application built to pretend to be human in action. The application will ultimately run on a Raspberry Pi microcomputer to ensure round-the-clock operation. 
+
+Translated with www.DeepL.com/Translator (free version)
