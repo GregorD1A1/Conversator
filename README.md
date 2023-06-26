@@ -12,4 +12,4 @@ Operation:
 
 To overcome potential third-party application issues (such as Tinder), Conversator is designed to self-detect errors and notify users via phone when they occur. The app is built to mimic human behavior, bypassing Tinder's extensive anti-bot mechanisms. As a result, Conversator offers a seamless and efficient user experience.
 
-Designed specifically for the Raspberry Pi microcomputer, Conversator ensures round-the-clock operation, taking the stress out of the dating scene and making it simpler for users to connect with potential matches.
+Designed specifically for the Raspberry Pi microcomputer, Conversator ensures round-the-clock operation, taking the stress out of the dating scene and making it simpler to connect with potential matches.
